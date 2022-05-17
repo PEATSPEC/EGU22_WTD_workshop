@@ -5,3 +5,7 @@ dependencies:
   - r-tidyverse
   - r-terra
   - r-tmap
+  - r-rgdal
+  - r-sp_1.4-6
+  - r-raster_3.5-11
+  - r-ggplot2_3.3.5
