@@ -6,7 +6,6 @@ dependencies:
   - r-terra
   - r-tmap
   - r-rgdal
-  - r-geojsonio
   - r-cowplot
   - r-scales
   - r-ggplot2
