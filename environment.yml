@@ -1,6 +1,5 @@
 channels:
   - conda-forge
-  - cran
 dependencies:
   - r-base=4.1.2
   - r-tidyverse
@@ -10,5 +9,4 @@ dependencies:
   - r-geojsonio
   - r-cowplot
   - r-scales
-  - r-ggspatial
   - r-ggplot2
