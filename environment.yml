@@ -8,5 +8,5 @@ dependencies:
   - r-tmap
   - r-rgdal
   - r-geojsonio
-  - r-ggplot2
   - r-cowplot
+  - r-scales
