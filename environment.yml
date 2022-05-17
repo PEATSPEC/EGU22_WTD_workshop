@@ -10,3 +10,5 @@ dependencies:
   - r-geojsonio
   - r-cowplot
   - r-scales
+  - r-ggspatial
+  - r-ggplot2
