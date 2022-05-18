@@ -1,5 +1,5 @@
-## Short course materials for EGU22 conference [link](https://www.egu22.eu/) 
-### Deriving soil moisture information with optical remote sensing data in R [link](https://meetingorganizer.copernicus.org/EGU22/session/43185)
+##  [Short course materials for EGU22 conference](https://www.egu22.eu/) 
+### [Deriving soil moisture information with optical remote sensing data in R ](https://meetingorganizer.copernicus.org/EGU22/session/43185)
 
 1. Iuliia Burdun *Aalto University (Finland)*
 2. Michel Bechtold *KU Leuven (Belgium)*
