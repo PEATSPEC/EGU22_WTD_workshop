@@ -9,4 +9,4 @@
 Creative Commons Attribution-ShareAlike [4.0 CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Launch notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PEATSPEC/EGU22_WTD_workshop/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PEATSPEC/EGU22_WTD_workshop/HEAD?filepath=EGU22.ipynb)
